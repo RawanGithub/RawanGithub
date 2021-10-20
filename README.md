@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rawan Alharbi
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning Python
+- 📫 You can reach me - www.linkedin.com/in/rawan--alharbi
